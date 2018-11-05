@@ -16,5 +16,9 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func clickedButton(_ sender: UIButton)
+    {
+        print("CLICKY CLICKO")
+    }
 }
 
